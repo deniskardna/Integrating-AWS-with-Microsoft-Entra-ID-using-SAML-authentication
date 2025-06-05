@@ -18,6 +18,6 @@
 
 - I edicted the SAML Configuration
 
-- I copied the Identifier (Entity ID): https://REGION.signin.aws.amazon.com/platform/saml/*
+- I copied the Identifier (Entity ID): https://REGION.signin.aws.amazon.com/platform/saml/ >> Selected **Add Identifier** paste the Identifier URL
 
-- I copied the Reply URL (Assertion Consumer Service URL): https://<REGION>.signin.aws.amazon.com/platform/saml/acs/<ID>.
+- I copied the Reply URL (Assertion Consumer Service URL): https://<REGION>.signin.aws.amazon.com/platform/saml/acs/<ID>. >> Selected **Add Reply URL** paste the Reply URL
