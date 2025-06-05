@@ -1,0 +1,1 @@
+# Integrating-AWS-with-Microsoft-Entra-ID-using-SAML-authentication
